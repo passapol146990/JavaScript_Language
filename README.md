@@ -1,6 +1,6 @@
 # JavaScript_Language
-<center>
-  <img src="JS.png" width="150px" height="150px"> 
-</center>
+<p>
+  <img src="JS.jpg" width="150px" height="150px"> 
+</p>
 
 ภาษา  JavaScript
