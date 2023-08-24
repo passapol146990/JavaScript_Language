@@ -1,5 +1,5 @@
 # JavaScript_Language
-<p>
+<p align="center">
   <img src="JS.jpg" width="150px" height="150px"> 
 </p>
 
